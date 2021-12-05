@@ -3,7 +3,7 @@
 ## Requirements
 
 - CMake
-- VitaSdk
+- VitaSdk (https://github.com/vitasdk/vdpm)
 
 
 
