@@ -40,7 +40,7 @@ int VitaLogUtil::init(const char* serverIp, int port, const char* appName)
      initParam.flags = 0;
      if (sceNetInit(&initParam) != 0)
      {
-	 return -1;
+	     return -1;
      }
   }
 
